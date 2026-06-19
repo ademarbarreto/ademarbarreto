@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ademar Barreto 👋
 
-🔭 Atualmente trabalhando em projetos de **automação cloud**, **pipelines CI/CD** e **agentes de IA** com LangChain, Claude API e N8N.
+🔭 Atualmente em transição de carreira realizando projetos de **automação cloud**, **pipelines CI/CD** e **agentes de IA** com LangChain, Claude API e N8N.
 
 🌱 Aprofundando conhecimentos em **Engenharia de Dados**, **Machine Learning** e **GenAI** — via bootcamps DIO, The Cloud Bootcamp e KubeDev.
 
