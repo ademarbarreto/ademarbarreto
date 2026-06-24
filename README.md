@@ -6,6 +6,7 @@
 
 *Disponível para novos desafios*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ademarbarreto-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ademarbarreto.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-ademarbarreto-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ademarbarreto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ademarsilvabarretojunior-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademarsilvabarretojunior/)
 [![Medium](https://img.shields.io/badge/Medium-@ademar.barreto-00d4ff?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ademar.barreto)
