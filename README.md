@@ -20,9 +20,9 @@ Profissional de TI com mais de 30 anos de experiência, especializado em arquite
 
 <div align="center">
 
-| 30+ | 4 | 5 | 11+ |
+| 30+ | 4 | 6 | 11+ |
 |:---:|:---:|:---:|:---:|
-| **anos em TI** | **cloud certs** | **bootcamps The Cloud Bootcamp** | **bootcamps DIO** |
+| **anos em TI** | **cloud certs** | **bootcamps TCB** | **bootcamps DIO** |
 
 </div>
 
@@ -118,7 +118,7 @@ Mais de 30 anos construindo e modernizando infraestrutura crítica em ambientes 
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos DIO no github
 
 Desafios práticos desenvolvidos em bootcamps DIO e iniciativas pessoais.
 
@@ -138,28 +138,30 @@ Desafios práticos desenvolvidos em bootcamps DIO e iniciativas pessoais.
 
 ---
 
-## ✍️ Artigos no Medium
+## 🚀 Projetos TCB no MEDIUM
 
 Documentação de projetos práticos, certificações e aprendizados em cloud e IA generativa.
 
 **🎓 Conclusão de Bootcamps — The Cloud Bootcamp**
-- [Certificado do AI Cloud Bootcamp — The Cloud Bootcamp](https://medium.com/@ademar.barreto/certificado-do-ai-cloud-bootcamp-da-empresa-the-cloud-bootcamp-cd10dfa003bf) · 02 Out 2025
-- [Bootcamp DevOps Cloud 2.0 — The Cloud Bootcamp](https://medium.com/@ademar.barreto/bootcamp-devops-cloud-2-0-295af2b45f96) · 13 Mar 2024
-- [Bootcamp Amazon Web Services (AWS) — The Cloud Bootcamp](https://medium.com/@ademar.barreto/institui%C3%A7%C3%A3o-the-cloud-bootcamp-treinamento-bootcamp-amazon-web-services-programa-de-db74b00de3d3) · 13 Mar 2024
-- [Certificado de conclusão Bootcamp de Azure — The Cloud Bootcamp](https://medium.com/@ademar.barreto/certificado-de-conclus%C3%A3o-do-bootcamp-de-azure-8d8352cbe8) · 13 Mar 2024
-- [Conclusão dos 4 Bootcamps (GCP, AWS, Azure, OCI) — The Cloud Bootcamp](https://medium.com/@ademar.barreto/conclus%C3%A3o-dos-4-bootcamps-ministrados-pela-the-cloud-bootcamp-9609c743aa11) · 13 Mar 2024
+- [🎓Certificado do AI Cloud Bootcamp](https://medium.com/@ademar.barreto/certificado-do-ai-cloud-bootcamp-da-empresa-the-cloud-bootcamp-cd10dfa003bf) · 02 Out 2025
+- [🎓Certificado Bootcamp DevOps Cloud 2.0](https://medium.com/@ademar.barreto/bootcamp-devops-cloud-2-0-295af2b45f96) · 13 Mar 2024
+- [🎓Certificado do Bootcamp Amazon Web Services (AWS)](https://medium.com/@ademar.barreto/institui%C3%A7%C3%A3o-the-cloud-bootcamp-treinamento-bootcamp-amazon-web-services-programa-de-db74b00de3d3) · 12 Jul 2022
+- [🎓Certificado do Bootcamp de Azure](https://medium.com/@ademar.barreto/certificado-de-conclus%C3%A3o-do-bootcamp-de-azure-8d8352cbe8) · 13 Set 2022
+- [🎓Certificado do Bootcamp GCP](https://medium.com/@ademar.barreto/conclus%C3%A3o-dos-4-bootcamps-ministrados-pela-the-cloud-bootcamp-9609c743aa11) · 13 Mar 2022
+- [🎓Certificado Oracle Cloud Infrastructure Foundations 2021 Associate Certification
+](https://medium.com/@ademar.barreto/oracle-cloud-infrastructure-foundations-2021-associate-certification-77165a251bd5) · 14 Jul 2022
 
 **☁ Certificações Azure & AWS**
-- [AWS Cloud Quest: Generative AI Practitioner](https://medium.com/@ademar.barreto/aws-cloud-quest-generative-ai-bd06a7148e60) · 14 Set 2025
-- [AI-900: Microsoft Azure AI Fundamentals](https://medium.com/@ademar.barreto/microsoft-certified-ai-900azure-ai-fundamentals-1dc6fb1a817c) · 21 Mai 2024
-- [AZ-900: Microsoft Azure Fundamentals](https://medium.com/@ademar.barreto/az-900-microsoft-azure-fundamentals-47a1ecf17dbd) · 06 Mai 2024
+- [🎓Certificado AWS Cloud Quest Generative AI Practitioner](https://medium.com/@ademar.barreto/aws-cloud-quest-generative-ai-bd06a7148e60) · 14 Set 2025
+- [🎓Certificado AI-900 : Microsoft Azure AI Fundamentals](https://medium.com/@ademar.barreto/microsoft-certified-ai-900azure-ai-fundamentals-1dc6fb1a817c) · 21 Mai 2024
+- [🎓Certificado AZ-900 : Microsoft Azure Fundamentals](https://medium.com/@ademar.barreto/az-900-microsoft-azure-fundamentals-47a1ecf17dbd) · 06 Mai 2024
 
 **🛠 Implementações Práticas — The Cloud Bootcamp**
-- [Hands-On HealthHub — Bootcamp AI Cloud](https://medium.com/@ademar.barreto/hands-on-healthhub-5b893e19ed80) · 01 Out 2025
-- [Microsserviço orientado a eventos: arquitetura serverless](https://medium.com/@ademar.barreto/microsservi%C3%A7o-orientado-a-eventos-de358295072d) · 13 Mar 2024
-- [Monitoramento em tempo real de URLs com CloudWatch Synthetics](https://medium.com/@ademar.barreto/implementa%C3%A7%C3%A3o-do-para-monitoramento-em-tempo-real-de-urls-de-aplica%C3%A7%C3%A3o-499904c2da32) · 09 Mar 2024
-- [Automação da implantação do HumanGov SaaS](https://medium.com/@ademar.barreto/automa%C3%A7%C3%A3o-da-implanta%C3%A7%C3%A3o-do-humangov-saas-8e85226a4244) · 06 Mar 2024
-- [Implantação do HumanGov SaaS na AWS EKS](https://medium.com/@ademar.barreto/implanta%C3%A7%C3%A3o-do-humangov-saas-na-aws-eks-899f1ac898ec) · 01 Mar 2024
+- [🚀Projeto Hands-On HealthHub](https://medium.com/@ademar.barreto/hands-on-healthhub-5b893e19ed80) · 01 Out 2025
+- [🚀Projeto de Microsserviço Orientado a Eventos](https://medium.com/@ademar.barreto/microsservi%C3%A7o-orientado-a-eventos-de358295072d) · 13 Mar 2024
+- [🚀Projeto de Implementação do Monitoramento em Tempo Real de URLs de Aplicação](https://medium.com/@ademar.barreto/implementa%C3%A7%C3%A3o-do-para-monitoramento-em-tempo-real-de-urls-de-aplica%C3%A7%C3%A3o-499904c2da32) · 09 Mar 2024
+- [🚀Projeto Automação da Implantação do HumanGov SaaS](https://medium.com/@ademar.barreto/automa%C3%A7%C3%A3o-da-implanta%C3%A7%C3%A3o-do-humangov-saas-8e85226a4244) · 06 Mar 2024
+- [🚀 Projeto Implantação do HumanGov SaaS na AWS EKS](https://medium.com/@ademar.barreto/implanta%C3%A7%C3%A3o-do-humangov-saas-na-aws-eks-899f1ac898ec) · 01 Mar 2024
 
 [→ ver todos os artigos no Medium](https://medium.com/@ademar.barreto)
 
@@ -207,9 +209,10 @@ Aberto a oportunidades em cloud, arquitetura de soluções, DevOps e IA. Vamos c
 
 - ✉ **Email:** [ademar.barreto@gmail.com](mailto:ademar.barreto@gmail.com)
 - 💼 **LinkedIn:** [ademarsilvabarretojunior](https://www.linkedin.com/in/ademarsilvabarretojunior/)
+- ✍️ **Portfólio:** [ademarbarreto.github.io](https://ademarbarreto.github.io)
 - 💻 **GitHub:** [ademarbarreto](https://github.com/ademarbarreto)
 - ✍️ **Medium:** [@ademar.barreto](https://medium.com/@ademar.barreto)
-- 📞 **Telefone:** (21) 99156-7836
+- 📞 **Telefone:** + 55 (21) 99156-7836
 
 ---
 
