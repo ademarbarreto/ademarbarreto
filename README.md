@@ -126,6 +126,7 @@ Desafios práticos desenvolvidos em bootcamps DIO e iniciativas pessoais.
 |---|---|---|
 | [**Desafio LocalStack — Sistema de Notas Fiscais na AWS**](https://github.com/ademarbarreto/desafio-localstack) | Arquitetura serverless AWS simulada localmente com LocalStack — S3, Lambda, DynamoDB, API Gateway e CloudWatch via Docker. | `AWS` `LocalStack` `Docker` `Lambda` |
 | [**Automação Agendada com AWS Step Functions + Python + CDK**](https://github.com/ademarbarreto/desafio-fluxo-aws-step-functions) | Orquestração de workflows com Step Functions, EventBridge, Python Lambda, S3, DynamoDB e SNS usando AWS CDK. | `CDK` `Step Functions` `Python` `EventBridge` |
+| [**Fyz — Copiloto de Vendas FYS**](https://github.com/ademarbarreto/desafio-copiloto-de-vendas-fys) | Copiloto de vendas para venda de refri FYS, Streamlit e OpenAI API — com base de conhecimento e plano de testes. | `Python` `Streamlit` `OpenAI` `LangChain` |
 | [**Luna — Copiloto de Vendas Pet Shop**](https://github.com/ademarbarreto/desafio-copiloto-de-vendas) | Copiloto de vendas para pet shop usando Python, Streamlit e OpenAI API — com base de conhecimento e plano de testes. | `Python` `Streamlit` `OpenAI` `LangChain` |
 | [**Calculadora de Emissão de CO₂**](https://github.com/ademarbarreto/CalculadoraCO2) | Calculadora de emissões de CO₂ em JS vanilla com integração OpenRouteService, autocomplete de cidades e histórico via localStorage. | `JavaScript` `API REST` `GitHub Actions` `GitHub Pages` |
 | [**FastAPI Banking**](https://github.com/ademarbarreto/api-bancaria) | API bancária com autenticação JWT (PyJWT 2.x), bcrypt, passlib — desenvolvida em WSL/Ubuntu com resolução de breaking changes. | `FastAPI` `JWT` `Python` `WSL` |
@@ -195,7 +196,9 @@ Certificações ativas e formação contínua em cloud, IA e gestão.
 | Automação de Dados com IA | Afya · DIO | 30 Abr 2026 · 51h · `6102JFWF` |
 | Fundamentos de IA Generativa com Bedrock | Nexa (powered by AWS) · DIO | 04 Dez 2025 · 9h · `4G9YCX0F` |
 | Modernização com GenAI | TQI · DIO | 19 Nov 2025 · 37h · `O3D9G0JL` |
+| Inteligência Artificial aplicada a Vendas | DIO · HEINEKEN | 04 Jul 2026 · 27h ·`UYM6YTWH` |
 | DIO Campus Expert #16 | DIO · Santander | Embaixador da plataforma de educação em IA |
+
 
 ### Formação acadêmica e cursos relevantes
 
@@ -212,12 +215,3 @@ Aberto a oportunidades em cloud, arquitetura de soluções, DevOps e IA. Vamos c
 - ✍️ **Portfólio:** [ademarbarreto.github.io](https://ademarbarreto.github.io)
 - 💻 **GitHub:** [ademarbarreto](https://github.com/ademarbarreto)
 - ✍️ **Medium:** [@ademar.barreto](https://medium.com/@ademar.barreto)
-- 📞 **Telefone:** + 55 (21) 99156-7836
-
----
-
-<div align="center">
-
-Feito com 💻 por [Ademar Barreto](https://github.com/ademarbarreto) · Rio de Janeiro, RJ · 2026
-
-</div>
