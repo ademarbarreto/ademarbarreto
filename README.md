@@ -133,6 +133,7 @@ Desafios práticos desenvolvidos em bootcamps DIO e iniciativas pessoais.
 | [**FinChat**](https://github.com/ademarbarreto/Finchat) | App de finanças pessoais com chat IA desenvolvido com Vibe Coding em HTML/CSS/JS puro para CodeSandbox. | `HTML/CSS/JS` `GenAI` `Vibe Coding` |
 | [**Previsão de Estoque Inteligente na AWS com SageMaker Canvas**](https://github.com/ademarbarreto/lab-aws-sagemaker-canvas-estoque) | Uso do SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). | `AWS` `SageMaker Canvas` `Machine Learning` |
 | [**Agente ADE: Gestor Pessoal Financeiro Inteligente**](https://github.com/ademarbarreto/dio-lab-bia-do-futuro) | Projeto que utiliza Inteligência Artificial para analisar hábitos financeiros, classificar despesas automaticamente e gerar insights personalizados. | `Agentes de IA` `Prompt Engineering` `Python` |
+| [**Agente ADE: Gestor Pessoal Financeiro Inteligente com cybersecurity**](https://github.com/ademarbarreto/dio-lab-bia-do-futuro-cyber) | Projeto que utiliza Inteligência Artificial para analisar hábitos financeiros, classificar despesas automaticamente e gerar insights personalizados. | `Agentes de IA` `Prompt Engineering` `Python` `Cyber` `CyberSecurity` |
 | [**Desafio Bootcamp TQI: Gerenciando Instâncias EC2 na AWS**](https://github.com/ademarbarreto/desafio-TQI-terraform-ec2-ami-nginx) | Criação de EC2 (Ubuntu + NGINX) no Free Tier, geração de AMI customizada terraform-ec2-ami e nova instância a partir da AMI, usando Terraform. | `AWS` `Terraform` `EC2` `Nginx` |
 | [**Agente de Organização de Tarefas com Google ADK + Trello**](https://github.com/ademarbarreto/agent-automation-python-trello) | Agente de IA que organiza e gerencia tarefas integrando o Google ADK ao Trello, com resolução de bugs de serialização, fuso horário e cotas de API. | `Google ADK` `Trello API` `Python` |
 | [**Detecção de Fraude em Cartão de Crédito — Credicard**](https://github.com/ademarbarreto/accenture) | Análise técnica completa de Machine Learning para detecção de fraudes em transações de cartões de crédito, com o dataset público Creditcard. | `Machine Learning` `Python` `Regressão Logística` |
@@ -198,7 +199,7 @@ Certificações ativas e formação contínua em cloud, IA e gestão.
 | Modernização com GenAI | TQI · DIO | 19 Nov 2025 · 37h · `O3D9G0JL` |
 | Inteligência Artificial aplicada a Vendas | DIO · HEINEKEN | 04 Jul 2026 · 27h ·`UYM6YTWH` |
 | DIO Campus Expert #16 | DIO · Santander | Embaixador da plataforma de educação em IA |
-
+| GenAI & Dados & Cyber | Bradesco · DIO | 07 Jul 2026 · 52h · `ZDO4WGZQ` |
 
 ### Formação acadêmica e cursos relevantes
 
