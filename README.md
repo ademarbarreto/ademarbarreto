@@ -96,7 +96,7 @@ Mais de 30 anos construindo e modernizando infraestrutura crítica em ambientes 
 - Coordenação de migração de plataformas críticas: WAS, SAS, SAP, Dynatrace, SQL Server
 
 ### Analista de Sistemas Sênior
-**Mobipower** — São Paulo, SP · `JAN 2007 – ABR 2016`
+**Mobipower** — São Paulo, SP · `JAN 2007 – DEZ 2021`
 - Desenvolvimento de soluções mobile Android para Porto Seguro (Porto Socorro)
 - Gateways GPS/LBS para rastreadores e sistemas mobile
 - Homologação POS junto a Cielo, Redecard e GetNet
